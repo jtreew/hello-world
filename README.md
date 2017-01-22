@@ -1,2 +1,3 @@
 # hello-world
 First Git Code
+Hello, my name is unimportant at this stage, but needless to say I have a weird desert town named after me... yup... its named after me not the other way around...
